@@ -1,0 +1,43 @@
+{
+  "cars": [
+    {
+      "name": "fsdfasd",
+      "date": "13.08.18",
+      "model": "asfasdf",
+      "id": 6,
+      "isSold": true
+    },
+    {
+      "name": "fdghfgh",
+      "date": "13.08.18",
+      "model": "dfhdh",
+      "id": 7
+    },
+    {
+      "name": "dfghdfh",
+      "date": "13.08.18",
+      "model": "dfghdfgh",
+      "id": 8,
+      "isSold": true
+    },
+    {
+      "name": "uuuuuuuuu",
+      "date": "13.08.18",
+      "model": "uuuuuuuu",
+      "id": 10,
+      "isSold": true
+    },
+    {
+      "name": "sdfgsdfg",
+      "date": "13.08.18",
+      "model": "sdfgsdfg",
+      "id": 11
+    },
+    {
+      "name": "fghjfghj",
+      "date": "13.08.18",
+      "model": "fgjfghj",
+      "id": 12
+    }
+  ]
+}
